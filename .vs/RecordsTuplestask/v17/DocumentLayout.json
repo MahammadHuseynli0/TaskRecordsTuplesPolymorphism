@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\RecordsTuplestask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16CA93C0-A6AC-4DEE-8D0E-2F17979C98CE}|RecordsTuplestask\\RecordsTuplestask.csproj|c:\\users\\user\\source\\repos\\recordstuplestask\\recordstuplestask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CA93C0-A6AC-4DEE-8D0E-2F17979C98CE}|RecordsTuplestask\\RecordsTuplestask.csproj|solutionrelative:recordstuplestask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C9779B3-323D-4FF4-9433-1A4796F64551}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\recordstuplestask\\core\\models\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C9779B3-323D-4FF4-9433-1A4796F64551}|Core\\Core.csproj|solutionrelative:core\\models\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C9779B3-323D-4FF4-9433-1A4796F64551}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\recordstuplestask\\core\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C9779B3-323D-4FF4-9433-1A4796F64551}|Core\\Core.csproj|solutionrelative:core\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C9779B3-323D-4FF4-9433-1A4796F64551}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\recordstuplestask\\core\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C9779B3-323D-4FF4-9433-1A4796F64551}|Core\\Core.csproj|solutionrelative:core\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\RecordsTuplestask\\Core\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Blog.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\RecordsTuplestask\\Core\\Models\\Blog.cs",
+              "RelativeToolTip": "Core\\Models\\Blog.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwEQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T01:39:10.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\RecordsTuplestask\\Core\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\RecordsTuplestask\\Core\\Models\\Comment.cs",
+              "RelativeToolTip": "Core\\Models\\Comment.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T01:27:01.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\RecordsTuplestask\\RecordsTuplestask\\Program.cs",
+              "RelativeDocumentMoniker": "RecordsTuplestask\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\RecordsTuplestask\\RecordsTuplestask\\Program.cs",
+              "RelativeToolTip": "RecordsTuplestask\\Program.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAQwGwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T01:24:55.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\RecordsTuplestask\\Core\\Models\\Helper.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Helper.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\RecordsTuplestask\\Core\\Models\\Helper.cs",
+              "RelativeToolTip": "Core\\Models\\Helper.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA1wCAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T02:22:27.508Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
